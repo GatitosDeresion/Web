@@ -28,7 +28,9 @@ header {
 }
 
 .logo img {
-    width: 80px;
+    border-radius: 50%; /* Esto hará que el logo sea circular */
+    width: 80px;        /* Ajusta el tamaño si es necesario */
+    height: auto;       /* Mantiene las proporciones de la imagen */
 }
 
 .nav-links {
