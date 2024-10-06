@@ -96,7 +96,7 @@ header {
     text-decoration: none;
     font-weight: bold;
     transition: background-color 0.3s;
-    margin-top: 20px; /* Esto baja el boton */
+    margin-top: 50px; /* Esto baja el boton */
 }
 
 .cta-button:hover {
